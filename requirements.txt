@@ -1,0 +1,5 @@
+django
+psycopg2-binary
+ipython
+pillow
+crispy-bootstrap5
